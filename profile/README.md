@@ -47,8 +47,10 @@
 
 | Repository | Description |
 |------------|-------------|
-| [`master_computer`](https://github.com/xynova-tech/master_computer) | Desktop application for device management, data visualization, and firmware upgrade of Xynova devices |
-| *More coming soon…* | SDKs, ROS drivers, and robot model descriptions |
+| [`xynova-sdk`](https://github.com/xynova-tech/xynova-sdk) | SDKs for Xynova dexterous hands and arm-hand integrated systems |
+| [`xynova-studio`](https://github.com/xynova-tech/xynova-studio) | Desktop applications for device management, data visualization, and firmware upgrade |
+| *More coming soon…* | ROS drivers and robot model descriptions |
+
 
 ## 📬 Contact
 
