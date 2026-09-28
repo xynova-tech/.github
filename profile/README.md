@@ -18,7 +18,7 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <a href="https://docs.xynova.com.cn/docs/flex2/">
-        <img src="https://www.xynova.com.cn/images/flex-2/kv-mb.png" width="260" alt="Xynova Flex 2"><br>
+        <img src="assets/flex2.png" width="260" alt="Xynova Flex 2"><br>
         <b>Xynova Flex 2</b>
       </a>
       <br><sub>23-DoF bionic dexterous hand<br>±0.1&nbsp;mm precision · 0.05&nbsp;N force control<br>12&nbsp;kg grasp load</sub>
@@ -26,7 +26,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://docs.xynova.com.cn/docs/prima1/">
-        <img src="https://www.xynova.com.cn/images/prima-1/kv-mb.png" width="260" alt="Xynova Prima 1"><br>
+        <img src="assets/prima1.png" width="260" alt="Xynova Prima 1"><br>
         <b>Xynova Prima 1</b>
       </a>
       <br><sub>Entry-level dexterous hand<br>Direct-drive transparency<br>For research & education</sub>
@@ -34,7 +34,7 @@
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://docs.xynova.com.cn/docs/rotary-actuator/">
-        <img src="https://www.xynova.com.cn/images/rotary-actuators/rotary-actuators-1-mb.jpg" width="260" alt="Synca XFS"><br>
+        <img src="assets/synca.jpg" width="260" alt="Synca XFS"><br>
         <b>Synca XFS</b>
       </a>
       <br><sub>Arm-hand integrated system<br>7-DoF arm + dexterous hand<br>Unified C++/C SDK</sub>
