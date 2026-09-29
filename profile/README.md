@@ -47,9 +47,9 @@
 
 | Repository | Description |
 |------------|-------------|
-| [`xynova-sdk`](https://github.com/xynova-tech/xynova-sdk) | SDKs for Xynova dexterous hands and arm-hand integrated systems |
-| [`xynova-studio`](https://github.com/xynova-tech/xynova-studio) | Desktop applications for device management, data visualization, and firmware upgrade |
-| *More coming soon…* | ROS drivers and robot model descriptions |
+| [`flex2`](https://github.com/xynova-tech/flex2) | Xynova Flex 2 dexterous hand — Studio 上位机, SDK, and simulation assets |
+| *More coming soon…* | prima1, synca-xfs |
+
 
 
 ## 📬 Contact
