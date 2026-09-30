@@ -53,15 +53,6 @@ force control, and a complete software toolchain: **Studio · SDK · Simulation*
   </tr>
 </table>
 
-## ✨ Why Xynova
-
-| | |
-|---|---|
-| 🦾 **Bionic Dexterous Design** | 23-DoF anthropomorphic hands with ±0.1 mm precision and 0.05 N force control |
-| 🤖 **Native Arm-Hand Integration** | Tightly coupled arm-hand systems driven by a unified C++/C SDK |
-| 🧰 **Complete Toolchain** | Studio GUI, cross-platform SDKs, and MuJoCo / Isaac Sim simulation assets out of the box |
-| ⚡ **Direct-Drive Transparency** | Direct-drive actuation with high-fidelity, transparent sensing |
-
 ## 📦 Repositories
 
 | Repository | Description | Docs |
