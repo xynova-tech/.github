@@ -1,81 +1,66 @@
-<div align="center">
+<p align="center">
+  <img src="assets/xynova-logo.svg" width="330" alt="Xynova">
+</p>
 
-# Xynova
+<p align="center">
+  <img src="assets/introduction.svg" width="470" alt="Harmony in motion, evolving with every move.">
+</p>
 
-**High-performance dexterous hands and arm-hand systems for embodied AI.**
+<p align="center">
+  <a href="https://www.xynova.com.cn/"><img src="assets/nav-website.svg" width="119" height="42" alt="Website"></a><a href="https://docs.xynova.com.cn/"><img src="assets/nav-docs.svg" width="214" height="42" alt="Documentation Center"></a><a href="mailto:contact-us@xynova.tech"><img src="assets/nav-contact.svg" width="137" height="42" alt="Contact Us"></a>
+</p>
 
-[![Website](https://img.shields.io/badge/Website-www.xynova.com.cn-blue?style=flat-square)](https://www.xynova.com.cn/)
-[![Documentation](https://img.shields.io/badge/Docs-docs.xynova.com.cn-green?style=flat-square)](https://docs.xynova.com.cn/)
-[![Contact](https://img.shields.io/badge/Contact-contact--us@xynova.tech-orange?style=flat-square)](mailto:contact-us@xynova.tech)
-
-Xynova builds high-performance dexterous hands and integrated arm-hand systems
-for embodied AI research and deployment — combining bionic design, precise
-force control, and a complete software toolchain: **Studio · SDK · Simulation**.
-
-</div>
-
----
-
-## 🖐️ Products
+## Products
 
 <table>
   <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/xynova-tech/Flex2">
-        <img src="assets/flex2.png" width="260" alt="Flex 2"><br>
-        <b>Flex 2</b>
-      </a>
-      <br><sub><i>Bionic Versatility, Intelligent Stability.</i></sub>
-      <br><sub>Dexterous Hand · 23 DoF</sub>
-      <br>
-      <a href="https://github.com/xynova-tech/Flex2">Repository</a> · <a href="https://github.com/xynova-tech/Flex2/releases">Downloads</a> · <a href="https://docs.xynova.com.cn/docs/flex2/">Docs</a>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/xynova-tech/Flex2"><img src="assets/flex-2.png" width="100%" align="middle" alt="Flex 2"></a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/xynova-tech/Prima1">
-        <img src="assets/prima1.png" width="260" alt="Prima 1"><br>
-        <b>Prima 1</b>
-      </a>
-      <br><sub><i>Direct-Drive Transparency, Intelligent Sensing Without Boundaries.</i></sub>
-      <br><sub>Direct-Drive Dexterous Hand</sub>
-      <br>
-      <a href="https://github.com/xynova-tech/Prima1">Repository</a> · <a href="https://github.com/xynova-tech/Prima1/releases">Downloads</a> · <a href="https://docs.xynova.com.cn/docs/prima1/">Docs</a>
+    <td width="50%" align="center" valign="middle">
+      <h3><a href="https://github.com/xynova-tech/Flex2"><ins>Flex 2</ins></a></h3>
+      <p>Bionic Versatility, Intelligent Stability.</p>
+      <p><sub>Hybrid-drive dexterous hand</sub></p>
+      <p><a href="https://github.com/xynova-tech/Flex2"><ins>Repository</ins></a> · <a href="https://github.com/xynova-tech/Flex2/releases"><ins>Downloads</ins></a> · <a href="https://docs.xynova.com.cn/docs/flex2/"><ins>Docs</ins></a></p>
     </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://github.com/xynova-tech/Synca-XFS">
-        <img src="assets/synca.jpg" width="260" alt="Synca XFS"><br>
-        <b>Synca XFS</b>
-      </a>
-      <br><sub><i>Native Arm-Hand, Boundless Dexterity.</i></sub>
-      <br><sub>Integrated Arm-Hand System</sub>
-      <br>
-      <a href="https://github.com/xynova-tech/Synca-XFS">Repository</a> · <a href="https://github.com/xynova-tech/Synca-XFS/releases">Downloads</a> · <a href="https://docs.xynova.com.cn/docs/rotary-actuator/">Docs</a>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/xynova-tech/Prima1"><img src="assets/prima-1.png" width="100%" align="middle" alt="Prima 1"></a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <h3><a href="https://github.com/xynova-tech/Prima1"><ins>Prima 1</ins></a></h3>
+      <p>Direct-Drive Transparency, Perceptive Infinity.</p>
+      <p><sub>Direct-Drive Dexterous Hand</sub></p>
+      <p><a href="https://github.com/xynova-tech/Prima1"><ins>Repository</ins></a> · <a href="https://github.com/xynova-tech/Prima1/releases"><ins>Downloads</ins></a> · <a href="https://docs.xynova.com.cn/docs/prima1/"><ins>Docs</ins></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://github.com/xynova-tech/Synca-XFS"><img src="assets/synca-xfs.png" width="100%" align="middle" alt="Synca XFS"></a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <h3><a href="https://github.com/xynova-tech/Synca-XFS"><ins>Synca XFS</ins></a></h3>
+      <p>Native Arm-Hand, Boundless Dexterity.</p>
+      <p><sub>Integrated Arm-Hand System</sub></p>
+      <p><a href="https://github.com/xynova-tech/Synca-XFS"><ins>Repository</ins></a> · <a href="https://github.com/xynova-tech/Synca-XFS/releases"><ins>Downloads</ins></a> · <a href="https://docs.xynova.com.cn/docs/rotary-actuator/"><ins>Docs</ins></a></p>
     </td>
   </tr>
 </table>
 
-## 📦 Repositories
-
-| Repository | Description | Docs |
-|------------|-------------|------|
-| [`Flex2`](https://github.com/xynova-tech/Flex2) | Flex 2 dexterous hand — Studio software, C++ SDK, and simulation assets | [→](https://docs.xynova.com.cn/docs/flex2/) |
-| [`Prima1`](https://github.com/xynova-tech/Prima1) | Prima 1 dexterous hand — direct-drive SDK, examples, and documentation | [→](https://docs.xynova.com.cn/docs/prima1/) |
-| [`Synca-XFS`](https://github.com/xynova-tech/Synca-XFS) | Synca XFS arm-hand integrated system — unified C++/C SDK and tooling | [→](https://docs.xynova.com.cn/docs/rotary-actuator/) |
-
-## 🚀 Getting Started
+## Getting Started
 
 1. **Pick your product** — open its repository above
-2. **Read the docs** — [online documentation](https://docs.xynova.com.cn/) or PDF manuals in each repository
-3. **Download software** — SDK, Studio, and simulation packages are published under **Releases** in each repository
+2. **Read the docs** — <a href="https://docs.xynova.com.cn/"><ins>Documentation Center</ins></a> or repo README
+3. **Download software** — SDK · Studio · Simulation under Releases
 
-## 📬 Contact
+## Contact
 
-- 🌐 **Website** — [www.xynova.com.cn](https://www.xynova.com.cn/)
-- 📖 **Documentation** — [docs.xynova.com.cn](https://docs.xynova.com.cn/)
-- ✉️ **Technical support** — [contact-us@xynova.tech](mailto:contact-us@xynova.tech)
+<p>
+  <img src="assets/icon-website.svg" width="18" alt=""> &nbsp; <strong>Website</strong> — <a href="https://www.xynova.com.cn/"><ins>www.xynova.com.cn</ins></a><br>
+  <img src="assets/icon-docs.svg" width="18" alt=""> &nbsp; <strong>Documentation</strong> — <a href="https://docs.xynova.com.cn/"><ins>docs.xynova.com.cn</ins></a><br>
+  <img src="assets/icon-contact.svg" width="18" alt=""> &nbsp; <strong>Technical support</strong> — <a href="mailto:contact-us@xynova.tech"><ins>contact-us@xynova.tech</ins></a>
+</p>
 
-<div align="center">
 
 <sub>© Xynova — Building the future of dexterous manipulation.</sub>
-
-</div>
-
