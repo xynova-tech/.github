@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/34350051/README.md)
 <p align="center">
   <img src="assets/xynova-logo.svg" width="330" alt="Xynova">
 </p>
@@ -12,40 +13,46 @@
 
 ## Products
 
-<table>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/xynova-tech/Flex2"><img src="assets/flex-2.png" width="100%" align="middle" alt="Flex 2"></a>
-    </td>
-    <td width="50%" align="center" valign="middle">
+<table width="100%">
+<tr>
+<td width="64%" align="left" valign="middle">
       <h3><a href="https://github.com/xynova-tech/Flex2"><ins>Flex 2</ins></a></h3>
       <p>Bionic Versatility, Intelligent Stability.</p>
       <p><sub>Hybrid-drive dexterous hand</sub></p>
       <p><a href="https://github.com/xynova-tech/Flex2"><ins>Repository</ins></a> · <a href="https://github.com/xynova-tech/Flex2/releases"><ins>Downloads</ins></a> · <a href="https://docs.xynova.com.cn/docs/flex2/"><ins>Docs</ins></a></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/xynova-tech/Prima1"><img src="assets/prima-1.png" width="100%" align="middle" alt="Prima 1"></a>
+<td width="36%" align="center" valign="middle">
+      <a href="https://github.com/xynova-tech/Flex2"><img src="assets/flex2-transparent.png" width="190" align="middle" alt="Flex 2"></a>
     </td>
-    <td width="50%" align="center" valign="middle">
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="64%" align="left" valign="middle">
       <h3><a href="https://github.com/xynova-tech/Prima1"><ins>Prima 1</ins></a></h3>
       <p>Direct-Drive Transparency, Perceptive Infinity.</p>
       <p><sub>Direct-Drive Dexterous Hand</sub></p>
       <p><a href="https://github.com/xynova-tech/Prima1"><ins>Repository</ins></a> · <a href="https://github.com/xynova-tech/Prima1/releases"><ins>Downloads</ins></a> · <a href="https://docs.xynova.com.cn/docs/prima1/"><ins>Docs</ins></a></p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://github.com/xynova-tech/Synca-XFS"><img src="assets/synca-xfs.png" width="100%" align="middle" alt="Synca XFS"></a>
+<td width="36%" align="center" valign="middle">
+      <a href="https://github.com/xynova-tech/Prima1"><img src="assets/prima1-transparent.png" width="180" align="middle" alt="Prima 1"></a>
     </td>
-    <td width="50%" align="center" valign="middle">
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="64%" align="left" valign="middle">
       <h3><a href="https://github.com/xynova-tech/Synca-XFS"><ins>Synca XFS</ins></a></h3>
       <p>Native Arm-Hand, Boundless Dexterity.</p>
       <p><sub>Integrated Arm-Hand System</sub></p>
       <p><a href="https://github.com/xynova-tech/Synca-XFS"><ins>Repository</ins></a> · <a href="https://github.com/xynova-tech/Synca-XFS/releases"><ins>Downloads</ins></a> · <a href="https://docs.xynova.com.cn/docs/rotary-actuator/"><ins>Docs</ins></a></p>
     </td>
-  </tr>
+<td width="36%" align="center" valign="middle">
+      <a href="https://github.com/xynova-tech/Synca-XFS"><img src="assets/synca-transparent.png" width="260" align="middle" alt="Synca XFS"></a>
+    </td>
+</tr>
 </table>
 
 ## Getting Started
